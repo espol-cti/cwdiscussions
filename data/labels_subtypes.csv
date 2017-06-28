@@ -1,0 +1,14 @@
+type_id,subtype_id,description
+0,0,authority
+0,1,”interpersonal (e.g. thanking, greeting, etc.)”
+0,2,other
+1,0,paraphrasing
+1,1,grammar
+2,1,information
+2,2,references
+2,0,authority credentials
+2,1,authority experiential
+2,1,authority institutional
+2,1,authority forum
+2,1,authority external
+2,1,authority social expectations
