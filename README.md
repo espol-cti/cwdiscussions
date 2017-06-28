@@ -1,2 +1,2 @@
-# cwdrole
-Collaborative writing discussions roles
+# cwdiscussions
+Collaborative writing discussions analysis
