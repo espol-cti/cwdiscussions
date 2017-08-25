@@ -23,6 +23,7 @@ var/
 output/
 wheels/
 output/
+.idea/
 *.egg-info/
 .installed.cfg
 *.egg
